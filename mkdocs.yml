@@ -18,6 +18,7 @@ docs_dir: docs
 nav: 
     - Cahier de texte : index.md    
     - Fiche d'information : Nom_Prenom-fiche.ipynb
+    - Quick Pi, Parcours 1 : Quick_Pi-Objets_connectes-Parcours_1.ipynb
     
     - Ressources :
       - Les notebook jupyter :
