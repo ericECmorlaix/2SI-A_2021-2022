@@ -15,7 +15,7 @@
 ![features_overview](images/undraw_features_overview_jg7a.svg){: .center width=50%}
 
 ***
-## Le 05/10 :
+## Les 05 et 12/10 :
 
 ### Activités :
 
@@ -29,7 +29,7 @@
 
 ​> **notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre ;
 
-### Prolongements, à faire pour le 12/10 :
+### Prolongements, à faire pour le 19/10 :
 
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
