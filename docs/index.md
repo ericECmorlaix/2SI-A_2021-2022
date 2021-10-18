@@ -14,6 +14,26 @@
 
 ![features_overview](images/undraw_features_overview_jg7a.svg){: .center width=50%}
 
+[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+***
+
+## Le 19/10 :
+
+### Activités :
+
+- Point d'avancement quant à la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et la complétion du notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​ ;
+
+- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
+
+
+### Prolongements, à faire durant les vacances de la Toussaint :
+
+- Finir tous les niveaux de [PYRATES](https://py-rates.fr/) ;
+
+- Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
+
+
 ***
 ## Les 05 et 12/10 :
 
