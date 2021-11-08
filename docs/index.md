@@ -18,6 +18,23 @@
 
 ***
 
+## Le 09/11 :
+
+### Activités :
+
+- Retour sur l'application [PYRATES](https://py-rates.fr/) afin de lever et résoudre les difficultés rencontrées ;
+
+- Poursuite de la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et la complétion du notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​ ;
+
+### Prolongements pour le 15/11 :
+
+- Finir tous les niveaux de [PYRATES](https://py-rates.fr/) ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
+
+- Finir la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
+
+
+***
+
 ## Le 19/10 :
 
 ### Activités :
