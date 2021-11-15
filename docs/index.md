@@ -17,7 +17,17 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 16/11 :
 
+### Activités :
+
+- Découverte de la [modélisation 3D](modelisation_3D) avec BlocksCAD et/ou TinkerCAD-CodeBlocks (code de la classe C8K89DHD4Y7K) ;
+
+### Prolongements pour le 23/11 :
+
+- Poursuivre plus avant l'activité de [modélisation 3D](modelisation_3D)...
+
+***
 ## Le 09/11 :
 
 ### Activités :
