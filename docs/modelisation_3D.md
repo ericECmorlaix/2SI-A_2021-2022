@@ -117,7 +117,7 @@ Pour cela, plusieurs solutions s'offrent à nous...
     ### Défin n°1 : Modéliser un pion avec TinkerCAD-codeblocks
   
     <figure markdown>
-      ![Pion](../images/TinkerCADpion00.png){ width="50%" .center }
+      ![Pion](../images/TinkerCADPion00.png){ width="50%" .center }
       <figcaption>Pion orange</figcaption>
     </figure>
     
@@ -137,22 +137,22 @@ Pour cela, plusieurs solutions s'offrent à nous...
     === "Etape 1 :"
         <figure markdown>
           <figcaption markdown>==Un premier cylindre (rayon = 7 mm, hauteur = 17 mm) centré ;==</figcaption>
-          ![BlocksCAD_03](../images/TinkerCADpion01.png){ width="90%" .center }          
+          ![BlocksCAD_03](../images/TinkerCADPion01.png){ width="90%" .center }          
         </figure>
     === "Etape 2 :"
         <figure markdown>
           <figcaption markdown>==Un second cylindre (rayon = 4 mm, hauteur = 8 mm) reposant sur le précédent ;==</figcaption>
-          ![BlocksCAD_04](../images/TinkerCADpion02.png){ width="90%" .center }
+          ![BlocksCAD_04](../images/TinkerCADPion02.png){ width="90%" .center }
         </figure>
     === "Etape 3 :"
         <figure markdown>
           <figcaption markdown>==Un tore (rayon = 12 mm, tube = 7 mm) ;==</figcaption>
-          ![BlocksCAD_05](../images/TinkerCADpion03.png){ width="90%" .center }
+          ![BlocksCAD_05](../images/TinkerCADPion03.png){ width="90%" .center }
         </figure>
     === "Etape 4 :"
         <figure markdown>
           <figcaption markdown>==Opérations d'assemblage et définition d'un objet ;==</figcaption>
-          ![BlocksCAD_06](../images/TinkerCADpion04.png){ width="90%" .center }
+          ![BlocksCAD_06](../images/TinkerCADPion04.png){ width="90%" .center }
         </figure>
     === "Etape 5 :"
         ==Il s'agit maintenant de renommer le projet, par exemple "monPion-prenom_nom", afin de l'enregistrer en cliquant sur le bouton "Exporter" au format "OBJ". On peut également l'exporter au format "Part" pour pouvoir l'importer ensuite dans un projet <a href="https://www.tinkercad.com/learn/designs" target="_blank">TinkerCAD-designs</a> ;==
